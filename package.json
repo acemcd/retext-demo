@@ -1,0 +1,17 @@
+{
+  "name": "txt-parse",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nlcst-to-string": "^2.0.4",
+    "retext": "^7.0.1",
+    "retext-keywords": "^5.0.0",
+    "retext-pos": "^2.0.2",
+    "to-vfile": "^6.0.0",
+    "unist-util-filter": "^2.0.2"
+  }
+}
